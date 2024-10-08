@@ -13,4 +13,4 @@ To solve this question, one needs to first set up BurpSuite. Once that is done, 
 # Tech Stack
 Python
 # Remember
-If the website loads to a 404 error, try adding /secret in the end in the URL. It should solve the problem.
+If the website loads to a 404 error, try adding `/secret` in the end in the URL. It should solve the problem.
